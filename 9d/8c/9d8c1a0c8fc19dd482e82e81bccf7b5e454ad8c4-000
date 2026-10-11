@@ -5122,3 +5122,51 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 23:36:24 +0200)
 
 > [Image: original 2304x768, displayed at 2000x667. Multiply coordinates by 1.15 to map to original image.] (11 October 2026, 23:36:24 +0200)
+
+## 11 October 2026, 23:51:29 +0200 : Prompt
+
+<!-- feedback-event:874db8273115f25e220c206a85c54c1aefaf66419ac0072dd8be469ea23e3873 (11 October 2026, 23:51:29 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 23:51:29 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 23:51:29 +0200)
+
+> [Image: original 2304x768, displayed at 2000x667. Multiply coordinates by 1.15 to map to original image.] (11 October 2026, 23:51:29 +0200)
+
+## 11 October 2026, 23:52:57 +0200 : Iteration
+
+<!-- feedback-event:67de049fcaf00fb8ab4e0feb57ac1af126e7f5d0192fe92192a3eacfe8b268bb (11 October 2026, 23:52:57 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 23:52:57 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 23:52:57 +0200)
+
+> Le contrôle des règles est vert (CLAUDE.md sous la limite, aucun fichier manquant). La fenêtre avance : 0,77 après la passe à 8 px. J'attends la fin des trois calculs. (11 October 2026, 23:52:57 +0200)
+
+## 12 October 2026, 00:02:58 +0200 : Iteration
+
+<!-- feedback-event:a7dad40397ee96a3d6113654669da610dfc23d6ee1c3f83a3a85b80187396589 (12 October 2026, 00:02:58 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:02:58 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:02:58 +0200)
+
+> La fenêtre passe de 0,901 à **0,9979** et le blanc peint de 0,942 à **0,9981**, en 4 à 5 minutes chacun pour tout le calcul. La tuile est en cours. (12 October 2026, 00:02:58 +0200)
+
+## 12 October 2026, 00:08:52 +0200 : Iteration
+
+<!-- feedback-event:22a4c1e3b7d850dadf0532d04e2d1ffd15fbe1a2847994189166b980c73a471d (12 October 2026, 00:08:52 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:08:52 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:08:52 +0200)
+
+> La couche de raccord se construit bien quand je l'appelle à la main, mais pas depuis le script. Je fais afficher la réponse exacte de Houdini pour trouver l'écart. (12 October 2026, 00:08:52 +0200)
+
+## 12 October 2026, 00:10:31 +0200 : Iteration
+
+<!-- feedback-event:c5d8eb6060c934db5ab2f5fdbb2b9711f403918e8c99a91d3fea4edca5054a70 (12 October 2026, 00:10:31 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:10:31 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:10:31 +0200)
+
+> Pendant ce calcul, je mesure ce que coûte le raccord à 24 px sur la fenêtre et le blanc peint, en séparant l'intérieur de l'image de la bande du bord. (12 October 2026, 00:10:31 +0200)
+
+## 12 October 2026, 00:13:48 +0200 : Iteration
+
+<!-- feedback-event:14e8b5b876171efa558ea8b25f9be681d1c27fa4cc36422e58ba141bcd80b81c (12 October 2026, 00:13:48 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:13:48 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:13:48 +0200)
+
+> Deux calculs tournent : les passes au pixel sur la fenêtre, jugées cette fois en pleine résolution, et la céramique relancée avec le bord propre. J'attends leurs premiers résultats. (12 October 2026, 00:13:48 +0200)
