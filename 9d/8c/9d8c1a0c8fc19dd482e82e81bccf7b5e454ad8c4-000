@@ -3870,3 +3870,99 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:23:08 +0200)
 
 > More generators and transform helpers. (11 October 2026, 16:23:08 +0200)
+
+## 11 October 2026, 16:27:13 +0200 : Iteration
+
+<!-- feedback-event:9895e06eeb5f8bf2f0b80b9c12f394f204f4ce015068fb4a3848350adb01d54b (11 October 2026, 16:27:13 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:27:13 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:27:13 +0200)
+
+> Core node parameters are in hand. A few more nodes matter for analysis and per-island work: derivative, UV map by ID, normal-to-height, the MoGe depth estimator, curve scatter, TV denoise. (11 October 2026, 16:27:13 +0200)
+
+## 11 October 2026, 16:27:36 +0200 : Iteration
+
+<!-- feedback-event:0d0dfde404c811e7ca7760a24f09c52d158f437f574bdc0e699706ac57cd7308 (11 October 2026, 16:27:36 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:27:36 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:27:36 +0200)
+
+> I have the parameter vocabulary. Now I'll check how Copernicus handles tiling and borders (the Wrap border property), since every family needs a tileability note. (11 October 2026, 16:27:36 +0200)
+
+## 11 October 2026, 16:29:25 +0200 : Iteration
+
+<!-- feedback-event:c414badfbf3aa3d9caef13ed3f2cbda369cd96373358eea2deef434111eeeb36 (11 October 2026, 16:29:25 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:29:25 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:29:25 +0200)
+
+> Tiling behaviour is clear (Wrap border, noise Tile Size, tilepattern Seamless mode, Wrap Mode on stampers). Now I'll verify the Substance Designer node names I plan to cite as equivalents. (11 October 2026, 16:29:25 +0200)
+
+## 11 October 2026, 16:29:24 +0200 : Iteration
+
+<!-- feedback-event:11daf21e48548f429f0542a2e8786c92b1c305915d120eb9c29bc3385814b953 (11 October 2026, 16:29:24 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:29:24 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 16:29:24 +0200)
+
+> Le storyboard montre que la vidéo assemble les carreaux en médaillon symétrique ; je le garde comme indication. Je passe maintenant à la dépréciation des méthodes dans le skill. (11 October 2026, 16:29:24 +0200)
+
+## 11 October 2026, 16:29:57 +0200 : Iteration
+
+<!-- feedback-event:fc947f56d1d8457e97b22492db7cb30e48b84640210d98b604b985e5005c02c9 (11 October 2026, 16:29:57 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:29:57 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:29:57 +0200)
+
+> Adobe's index page is blocked. Let me try individual node pages directly. (11 October 2026, 16:29:57 +0200)
+
+## 11 October 2026, 16:30:52 +0200 : Iteration
+
+<!-- feedback-event:ac52381aa9d90ccebae9a005aed95b86e5c043572dff2571ff3a1fc5a7061ebe (11 October 2026, 16:30:52 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:30:52 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:30:52 +0200)
+
+> Masonry facts gathered. Now ceramics: zellige, azulejo and cuerda seca, crazing, terrazzo, mosaic, porcelain tile. (11 October 2026, 16:30:52 +0200)
+
+## 11 October 2026, 16:31:48 +0200 : Iteration
+
+<!-- feedback-event:3d02b989cd08fc0e705f7ea6fcd5b6af2c2d9d55808017a32cc820957c275616 (11 October 2026, 16:31:48 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:31:48 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:31:48 +0200)
+
+> Next batch: ground and terrain families (ripples, dunes, mud cracks, cobbles and setts, flagstone, tafoni). (11 October 2026, 16:31:48 +0200)
+
+## 11 October 2026, 16:32:30 +0200 : Iteration
+
+<!-- feedback-event:4d4a4a515c50a320bfbdb86c14cc50086a1bc65d53750dee3aaa87d8d7399111 (11 October 2026, 16:32:30 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:32:30 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:32:30 +0200)
+
+> Rock fractures (H about 0.8 for granite and basalt, 0.47 for sandstone) and crack scaling (spacing about 3 times layer thickness) are sourced. Next: wood, plaster, stucco, formwork, and stylolites. (11 October 2026, 16:32:30 +0200)
+
+## 11 October 2026, 16:32:43 +0200 : Iteration
+
+<!-- feedback-event:da70a0f66b96a2e9e29aa1c0663d35b252c9c93d870938157f8844300a3d28d6 (11 October 2026, 16:32:43 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:32:43 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 16:32:43 +0200)
+
+> Les deux textures de référence 4x4 et le storyboard demandés sont prêts ; je te les envoie, puis je construis l'outillage de mesure. (11 October 2026, 16:32:43 +0200)
+
+## 11 October 2026, 16:32:57 +0200 : Iteration
+
+<!-- feedback-event:2b862f0a0f9ac1c9fc1245e3d27d1bb6d2d0d23a0031e27117eff8c0fe0cfb15 (11 October 2026, 16:32:57 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:32:57 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:32:57 +0200)
+
+> Now the metal families: corrugated iron, diamond plate, mail, planishing, brushed finish, pitting. (11 October 2026, 16:32:57 +0200)
+
+## 11 October 2026, 16:33:39 +0200 : Iteration
+
+<!-- feedback-event:ec6ef86503075e5d32b9134b8809682c1c93eceafa98caf271222114ff2f071d (11 October 2026, 16:33:39 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:33:39 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953/subagents/agent-a0dd46d10ee3a816a.jsonl. (11 October 2026, 16:33:39 +0200)
+
+> Now roofing, thatch, snow, lava, coral, bone, tread, carbon fibre and wallpaper relief. (11 October 2026, 16:33:39 +0200)
+
+## 11 October 2026, 16:34:45 +0200 : Iteration
+
+<!-- feedback-event:79e64a3efc84dff2fc6980af2a367ede4293f831d61e161acc24a7b765cca765 (11 October 2026, 16:34:45 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 16:34:45 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 16:34:45 +0200)
+
+> Je corrige le parseur (entrées et sorties indentées) puis je régénère la référence des nœuds. (11 October 2026, 16:34:45 +0200)
