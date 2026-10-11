@@ -4639,3 +4639,302 @@
 > Il te reste une décision : est-ce que la variante L3, plus fidèle mais proche du décalque, entre dans la méthode, ou est-ce que L2 reste la règle ? (11 October 2026, 21:13:38 +0200)
 >
 > Ta demande, en plus court : « Termine tout le chantier zenray-height et vérifie chaque étape. » (11 October 2026, 21:13:38 +0200)
+
+## 11 October 2026, 22:51:30 +0200 : Prompt
+
+<!-- feedback-event:544483c6c94f78e95b49d285db78b3d67f41b605d1ea7b37565054e56630b070 (11 October 2026, 22:51:30 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 22:51:30 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 22:51:30 +0200)
+
+> C'est quasi parfait, mais que ce soit le L2 ou le L3, ça manque encore de piqué et de détails j'ai limite l'impression que ça manque d'itération pour que ce soit vraiment parfait. Donc je pense qu'il manque encore quelques étapes intermédiaires. (11 October 2026, 22:51:30 +0200)
+
+## 11 October 2026, 22:51:39 +0200 : Iteration
+
+<!-- feedback-event:b6ba80e1a3442869b6b93f0666ba9a91fda460d70feaadd3bbddfb4957f62ac9 (11 October 2026, 22:51:39 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 22:51:39 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 22:51:39 +0200)
+
+> Je reprends depuis L3 et j'ajoute des passes intermédiaires sur le résidu : à chaque fois je mesure ce qui manque encore, je le replace plus finement, et je ne garde que ce qui améliore. Je mesure aussi le piqué à part, avec l'énergie des détails de 1 à 2 px comparée à celle de la référence. (11 October 2026, 22:51:39 +0200)
+
+## 11 October 2026, 22:53:17 +0200 : Iteration
+
+<!-- feedback-event:462ff1343920e2ff0e1fa5eb22d68b6079ec73bf2796cd062b5b96c0ae120b05 (11 October 2026, 22:53:17 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 22:53:17 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 22:53:17 +0200)
+
+> No response requested. (11 October 2026, 22:53:17 +0200)
+
+## 11 October 2026, 22:53:17 +0200 : Prompt
+
+<!-- feedback-event:4e0e6ae7387e9a3279676a8cfdfd0da9477764515c2e6f06e5cb7365aa140abd (11 October 2026, 22:53:17 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 22:53:17 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 22:53:17 +0200)
+
+> <task-notification> (11 October 2026, 22:53:17 +0200)
+> <task-id>b43gpfxn4</task-id> (11 October 2026, 22:53:17 +0200)
+> <tool-use-id>toolu_01CLWgv17BV15PHQ21RKEMY3</tool-use-id> (11 October 2026, 22:53:17 +0200)
+> <status>stopped</status> (11 October 2026, 22:53:17 +0200)
+> <summary>Background shell command didn't finish before the previous session ended</summary> (11 October 2026, 22:53:17 +0200)
+> <note>No completion record was found for it in the previous session. It may have been stopped (via the UI, Monitor timeout, or agent teardown — these leave no transcript marker), or it may have been running when the previous Claude Code process exited. Check the output file for partial results before assuming it completed.</note> (11 October 2026, 22:53:17 +0200)
+> </task-notification> (11 October 2026, 22:53:17 +0200)
+
+## 11 October 2026, 22:54:02 +0200 : Prompt
+
+<!-- feedback-event:ca0b6dd72c1a56754e2fbc615a24da0b0090ba935ef4acced247cfaf702bf52d (11 October 2026, 22:54:02 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 22:54:02 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 22:54:02 +0200)
+
+> Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, mais vraiment en partant de A à Z et en m'expliquant en max cinq à neuf paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean. (11 October 2026, 22:54:02 +0200)
+
+## 11 October 2026, 22:54:29 +0200 : Iteration
+
+<!-- feedback-event:b815bdfd7e272a5d1a7e323933fa300c4a3fa3015aa845c2c30879dd3dc286ed (11 October 2026, 22:54:29 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 22:54:29 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 22:54:29 +0200)
+
+> Tout a commencé par une remise à zéro. Les méthodes du skill zenray-houdini, y compris la boucle M01 et son score qui plafonnait vers 50 %, ont été marquées comme dépréciées, puis relues pour en garder ce qu'elles avaient appris. La conclusion tient en une phrase : elles réglaient des valeurs, alors que le problème venait de leur principe. La boucle M01, par exemple, tirait les écailles au hasard. Elle pouvait donc reproduire la bonne proportion de clair et de sombre, mais jamais les écailles à leur place. Ces leçons sont rangées dans Copernicus2.md, section 9. (11 October 2026, 22:54:29 +0200)
+>
+> Il fallait ensuite une référence propre. Dans la planche « Procedural Ceramic Wall Tiles », la dernière colonne contenait les quatre heights. Je l'ai découpée et recalée sur les joints mesurés (un carreau mesure 477,56 px dans la source), puis répétée quatre fois pour obtenir une texture 4 × 4 de 2048 px. Je l'ai accompagnée d'un masque qui écarte les lignes abîmées par la compression. La base color a subi le même traitement, mais en miroir gauche-droite, pour que chaque carreau coloré tombe exactement sur son relief. La vidéo éclairée n'a servi que d'indication, sous forme de planche storyboard, puisque sa lumière empêche d'en tirer une vraie base color. (11 October 2026, 22:54:29 +0200)
+>
+> Avant de construire quoi que ce soit, j'ai mesuré. Des scripts ont relevé le profil du joint en fonction de la distance au bord, la valeur moyenne de chaque rangée de carreaux, l'énergie du détail à chaque échelle et les seuils des masques noir et blanc. J'ai aussi fixé une frontière, pour que la reproduction n'ait jamais rien d'un décalque. Aucune image de référence n'entre dans le graphe : la référence ne sert qu'à mesurer. Seules les mesures y entrent, sous forme de tables, de courbes ou de polygones vectoriels. En parallèle, des agents ont dépouillé toute la documentation pour constituer Copernicus2.md : les 372 nœuds COP de l'aide locale, la page SideFX sur le passage de Substance Designer à Copernicus, les nœuds de Designer et de Painter, Javier Perez, la recherche récente et un catalogue de familles de matériaux, resté partiel. L'ensemble fait 2,6 Mo, avec un index par numéro de ligne et un petit routeur, ce qui permet de n'en lire que la section utile. (11 October 2026, 22:54:29 +0200)
+>
+> La méthode n'a pas été choisie d'avance, elle est sortie d'un concours. Seize méthodes ont tourné, quatre phases chacune, toutes construites pour de vrai dans Copernicus et notées par les mêmes masques. Le résultat est très net. Les méthodes purement statistiques, faites de bruits calibrés, restent entre 0,07 et 0,40 de ressemblance au pixel, et elles se dégradent quand on leur ajoute du bruit. La structure seule plafonne vers 0,68. Seules les méthodes qui mesurent la position des formes propres à l'image dépassent 0,93. La méthode retenue combine donc la règle de décision d'une méthode et les régions mesurées d'une autre. (11 October 2026, 22:54:29 +0200)
+>
+> Cette méthode procède une couche à la fois, comme tu le voulais. À chaque étape, le script calcule ce qui manque encore, la référence moins le résultat courant. Il propose une seule couche, la construit dans le graphe, l'exporte et la mesure. Il la garde si elle améliore le score et la rejette sinon. L'ordre va du plus structurel au plus fin : (11 October 2026, 22:54:29 +0200)
+> - d'abord le profil du joint, puis les profils de chaque côté du carreau ; (11 October 2026, 22:54:29 +0200)
+> - ensuite une valeur, une pente et des coins par rangée de carreaux ; (11 October 2026, 22:54:29 +0200)
+> - puis des régions mesurées de plus en plus fines, avec des tailles de flou de 32, 16, 8 et 4 px ; (11 October 2026, 22:54:29 +0200)
+> - enfin les traits, les éclats, et un ajustement de l'histogramme. (11 October 2026, 22:54:29 +0200)
+>
+> Chaque couche acceptée vit dans sa propre boîte réseau et laisse une image, une planche de comparaison et une ligne de journal. Le grain statistique a été rejeté sur les quatre matériaux. Cela confirme que le détail fin de ces références dépend de sa position : il doit être à un endroit précis, et un bruit calibré ne peut pas l'y placer. (11 October 2026, 22:54:29 +0200)
+>
+> La vérification a ensuite trouvé deux défauts qu'un chiffre global ne montrait pas. Le premier était une couture au tuilage : au bord de l'image, le saut était onze fois plus fort qu'entre deux pixels voisins. La cause était mesurable. Les couches par carreau changeaient de valeur pile au milieu du joint, et des traits tracés étaient coupés par le bord. Ces couches s'éteignent maintenant en douceur au centre du joint, et les formes qui touchent le bord sont écartées. Le saut au bord est descendu sous celui de la référence. Le second défaut touchait la base color : 1,2 % de pixels restaient noirs, faute de polygone pour les couvrir. Chaque couche de couleur se pose maintenant par-dessus la précédente, et l'écart de couleur est passé de 12 à 7,7, pour un plafond de la méthode à 7,5. Le même procédé, sans aucun réglage propre à chaque matière, donne 0,90 sur window, 0,94 sur whitepaint et 0,97 sur tile, alors que la fenêtre plafonnait avec l'ancienne boucle. (11 October 2026, 22:54:29 +0200)
+>
+> Je ne crois pas qu'il faille déjà parler de travail d'orfèvre au sens du résultat. Ton œil a raison sur le manque de piqué. Les régions sont quantifiées en huit niveaux puis adoucies par un flou, si bien que le dernier pixel de détail reste émoussé, même en L3. Ce qui est propre, en revanche, c'est la chaîne : chaque couche est mesurée, justifiée, rejouable et rangée. Le correctif que tu demandes découle d'ailleurs directement de ce diagnostic. Il consiste à repasser plusieurs fois sur le résidu, de plus en plus finement et avec moins de flou, chaque passe réduisant l'erreur de quantification de la précédente. Le script de ces passes intermédiaires est écrit dans [/Users/zenray/.claude/tmp/tmp-zenray-height/Scripts/RunPasses.py](/Users/zenray/.claude/tmp/tmp-zenray-height/Scripts/RunPasses.py). Son premier lancement a été coupé avec la session précédente : son résultat est inconnu, et c'est la prochaine chose à relancer et à vérifier. (11 October 2026, 22:54:29 +0200)
+
+## 11 October 2026, 22:59:11 +0200 : Prompt
+
+<!-- feedback-event:c79db7da7780cbddc91f5f0b0d5099e5b6a40585e3ebfc63d415dc4f2e69fda5 (11 October 2026, 22:59:11 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 22:59:11 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 22:59:11 +0200)
+
+> Est-ce que par rapport au contexte et à l'explication, tu peux me créer une histoire hyper intéressante à lire tout en étant extrêmement informatif sur tout le workflow (Est-ce que tu peux m'expliquer tout le workflow que tu as fait jusqu'à maintenant, ou certain bout contextuel mais vraiment en partant de A à Z pour ne rien ommettre et en m'expliquant en pas trop de paragraphes ? Mais j'ai vraiment l'impression que ce que tu as fait, c'est un travail d'orfèvre, c'est vraiment hyper clean et j'ai vraiment envie d'apprendre.) pour que je comprenne exactement ce que tu as construit ? si c'est concluant on créera le skill zenray-learn-with-story  (11 October 2026, 22:59:11 +0200)
+>
+> l'histoire s'adapte au contexte de la leçon et elle est addictive à lire la suite. (11 October 2026, 22:59:11 +0200)
+
+## 11 October 2026, 23:00:11 +0200 : Prompt
+
+<!-- feedback-event:57c981318845c4409367ba642b24c5c9bd34f73e0a6f3e3c4f3bb53ac4e71a34 (11 October 2026, 23:00:11 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 23:00:11 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 23:00:11 +0200)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/recit-francais (11 October 2026, 23:00:11 +0200)
+>
+> # Récit français (11 October 2026, 23:00:11 +0200)
+>
+> Ce skill sert à produire de la narration en français dont la syntaxe, la temporalité et le rythme relèvent réellement de la tradition française, et non d'un anglais de rapport traduit mot à mot. (11 October 2026, 23:00:11 +0200)
+>
+> Le problème qu'il corrige est précis. Sans consigne, la prose française générée présente à peu près toujours les mêmes défauts : présent de vérité générale à 80 %, phrases courtes juxtaposées sans subordination, deux-points employés à la place des conjonctions, chutes en formule assertive, subjonctif absent, et une figure envahissante du type « ce n'est pas X, c'est Y ». Ces traits viennent de l'anglais de copywriting. En français, ils suppriment mécaniquement toute nuance, parce que la nuance française vit dans les modes et dans la subordination, non dans la juxtaposition. (11 October 2026, 23:00:11 +0200)
+>
+> ## Étape 1, choisir le régime narratif (11 October 2026, 23:00:11 +0200)
+>
+> Avant d'écrire une seule phrase, arrêter le régime. Le régime détermine tout le reste et ne se change jamais en cours de texte. (11 October 2026, 23:00:11 +0200)
+>
+> **Régime littéraire, passé simple et imparfait.** C'est le régime du roman, du conte, de la nouvelle, du récit historique, de la légende. Le passé simple coupe le narrateur du présent et installe un monde clos. Il autorise le passé antérieur et le subjonctif imparfait, donc toute la palette. C'est le régime par défaut quand l'utilisateur demande « une belle histoire ». (11 October 2026, 23:00:11 +0200)
+>
+> **Régime moderne, passé composé et imparfait.** C'est le régime de *L'Étranger*, du témoignage, du récit à la première personne qui veut rester collé au présent du narrateur. Il crée une proximité et une platitude volontaires. Il ferme l'accès au passé antérieur et rend le subjonctif imparfait presque impossible sans effet de dissonance. Ne le choisir que si l'effet d'immédiateté est recherché. (11 October 2026, 23:00:11 +0200)
+>
+> **Régime oral ou journalistique, présent de narration.** Vivacité, urgence, mais aucune profondeur temporelle. À réserver aux textes courts ou aux passages d'accélération à l'intérieur d'un autre régime. (11 October 2026, 23:00:11 +0200)
+>
+> Interdit absolu : mélanger passé simple et passé composé comme temps de premier plan dans le même récit. C'est la faute qui détruit immédiatement la crédibilité d'un texte français. Le passé composé peut apparaître dans les dialogues d'un récit au passé simple, jamais dans la narration. (11 October 2026, 23:00:11 +0200)
+>
+> ## Étape 2, répartir premier plan et arrière-plan (11 October 2026, 23:00:11 +0200)
+>
+> Le moteur du récit français au passé n'est pas la succession des phrases, c'est l'opposition entre deux couches. (11 October 2026, 23:00:11 +0200)
+>
+> L'**arrière-plan** est à l'imparfait. Décor, état des choses, habitudes, psychologie, durée sans borne, ce qui était déjà là quand l'action est arrivée. (11 October 2026, 23:00:11 +0200)
+>
+> Le **premier plan** est au passé simple, ou au passé composé selon le régime. Événements bornés, actions qui font avancer, ruptures. (11 October 2026, 23:00:11 +0200)
+>
+> Un récit qui n'utilise que du premier plan est une liste. Un récit qui n'utilise que de l'arrière-plan est une description immobile. La beauté naît de l'alternance, et surtout du moment où l'imparfait long est interrompu par un passé simple bref. (11 October 2026, 23:00:11 +0200)
+>
+> > La pluie tombait depuis trois jours sur les tuiles, et le village s'était résigné à ne plus sortir. Puis, le quatrième matin, la cloche sonna. (11 October 2026, 23:00:11 +0200)
+>
+> ## Étape 3, employer tout le système, pas seulement deux temps (11 October 2026, 23:00:11 +0200)
+>
+> **Imparfait.** Distinguer ses valeurs et les faire jouer, plutôt que d'en rester à la description. (11 October 2026, 23:00:11 +0200)
+> - Duratif, un état qui dure : *il pleuvait.* (11 October 2026, 23:00:11 +0200)
+> - Itératif, une habitude : *chaque soir, il fermait les volets.* (11 October 2026, 23:00:11 +0200)
+> - Descriptif, arrière-plan : *la maison était basse, coiffée d'un toit trop lourd.* (11 October 2026, 23:00:11 +0200)
+> - De rupture ou pittoresque, un événement ponctuel mis à l'imparfait pour l'étirer et le rendre fatal : *le lendemain, il mourait.* Effet puissant, à n'utiliser qu'une fois par texte. (11 October 2026, 23:00:11 +0200)
+> - Hypothétique, après *si* : *s'il partait maintenant, il arriverait avant la nuit.* (11 October 2026, 23:00:11 +0200)
+>
+> **Passé simple.** Ponctuel, borné, non répétable. C'est le temps de ce qui arrive. Il ne décrit pas, il tranche. Ne jamais lui faire porter un état. (11 October 2026, 23:00:11 +0200)
+>
+> **Plus-que-parfait.** Antériorité par rapport à l'arrière-plan, ou par rapport à une habitude. C'est lui qui donne au récit sa profondeur de champ, la sensation qu'un passé existait avant le passé raconté. Un texte sans plus-que-parfait est un texte plat. (11 October 2026, 23:00:11 +0200)
+> > Elle rouvrit la lettre qu'elle avait pourtant décidé de brûler. (11 October 2026, 23:00:11 +0200)
+>
+> **Passé antérieur.** Antériorité immédiate par rapport à un passé simple, uniquement en subordonnée temporelle introduite par *quand, lorsque, dès que, aussitôt que, à peine... que, après que*. Il n'existe que dans le régime littéraire, et son emploi juste est la marque la plus nette d'un français maîtrisé. (11 October 2026, 23:00:11 +0200)
+> > Dès qu'il eut refermé la porte, le silence retomba. (11 October 2026, 23:00:11 +0200)
+> > À peine fut-elle sortie que la lampe s'éteignit. (11 October 2026, 23:00:11 +0200)
+>
+> **Conditionnel présent comme futur du passé.** Pour dire l'avenir depuis l'intérieur du récit. (11 October 2026, 23:00:11 +0200)
+> > Il ignorait encore qu'il ne la reverrait jamais. (11 October 2026, 23:00:11 +0200)
+>
+> **Conditionnel passé et périphrase.** *Il allait partir* pour le futur proche du passé, *il aurait dû* pour le regret. La périphrase *allait* + infinitif est un des plus beaux outils de suspens du français. (11 October 2026, 23:00:11 +0200)
+>
+> **Subjonctif imparfait et plus-que-parfait.** Concordance des temps en régime littéraire. Ils sonnent précieux à la troisième personne du pluriel et deviennent ridicules aux formes lourdes. Règle pratique : les employer à la troisième personne du singulier, où ils sont élégants (*qu'il fût, qu'elle eût, qu'il partît, qu'il eût compris*), les éviter partout ailleurs. Le plus-que-parfait du subjonctif sert aussi de deuxième forme du conditionnel passé, tour très littéraire : (11 October 2026, 23:00:11 +0200)
+> > Il eût suffi d'un mot. (au lieu de : il aurait suffi) (11 October 2026, 23:00:11 +0200)
+>
+> Consulter `references/conjugaisons.md` pour les formes irrégulières du passé simple, du passé antérieur et du subjonctif imparfait, qui sont la source d'erreur la plus fréquente. (11 October 2026, 23:00:11 +0200)
+>
+> ## Étape 4, écrire des phrases françaises (11 October 2026, 23:00:11 +0200)
+>
+> C'est ici que se joue la différence entre du français et de l'anglais traduit. (11 October 2026, 23:00:11 +0200)
+>
+> **Subordonner.** Le français argumente et raconte par emboîtement, l'anglais par juxtaposition. Utiliser les relatives enchaînées, les participiales, les appositions, les circonstancielles antéposées. Une phrase qui commence par une subordonnée et se résout sur la principale est une structure typiquement française, presque absente de l'anglais moderne. (11 October 2026, 23:00:11 +0200)
+> > Comme la nuit tombait et que personne n'était venu, elle finit par éteindre. (11 October 2026, 23:00:11 +0200)
+>
+> **Employer les connecteurs français.** *Or, dès lors, cependant, en revanche, d'ailleurs, du reste, aussi* suivi de l'inversion, *il reste que, tant et si bien que, à peine... que, non que... mais.* Ces mots portent l'articulation logique. Les remplacer par un deux-points ou un retour à la ligne est un procédé typographique anglo-saxon qui appauvrit le texte. (11 October 2026, 23:00:11 +0200)
+>
+> **Varier la période.** Alterner phrases longues et chutes brèves. Une prose dont toutes les phrases font la même longueur est monotone quelle que soit la qualité du vocabulaire. Viser un rythme où deux ou trois phrases amples préparent une phrase de cinq mots. (11 October 2026, 23:00:11 +0200)
+>
+> **Utiliser le discours indirect libre.** Marque de fabrique du roman français depuis Flaubert. La pensée du personnage passe dans la narration sans guillemets ni verbe introducteur, portée par l'imparfait et le conditionnel. C'est le moyen le plus élégant de rendre une intériorité. (11 October 2026, 23:00:11 +0200)
+> > Il n'irait pas. À quoi bon. On l'attendrait une heure, puis on passerait à autre chose, et le monde continuerait très bien sans lui. (11 October 2026, 23:00:11 +0200)
+>
+> **Placer l'adjectif.** En français, l'antéposition change le sens et le registre (*un homme grand* / *un grand homme*). Utiliser cette ressource au lieu d'empiler des adjectifs postposés comme en anglais. (11 October 2026, 23:00:11 +0200)
+>
+> **Concret avant abstrait.** Un objet, un geste, un bruit, une matière valent mieux qu'un nom abstrait. Le vocabulaire latin abstrait (*périmètre, structurel, levier, arbitrage*) tue la narration. (11 October 2026, 23:00:11 +0200)
+>
+> ## Étape 5, contrôler avant de rendre (11 October 2026, 23:00:11 +0200)
+>
+> Passer le texte à cette liste. Chaque point manqué est un défaut identifiable. (11 October 2026, 23:00:11 +0200)
+>
+> 1. Le régime est-il unique et tenu du début à la fin ? (11 October 2026, 23:00:11 +0200)
+> 2. Le plus-que-parfait apparaît-il au moins une fois pour ouvrir une profondeur de champ ? (11 October 2026, 23:00:11 +0200)
+> 3. Le passé antérieur ou une subordonnée temporelle riche apparaît-il, en régime littéraire ? (11 October 2026, 23:00:11 +0200)
+> 4. Un futur du passé (conditionnel ou *allait* + infinitif) donne-t-il une perspective ? (11 October 2026, 23:00:11 +0200)
+> 5. Y a-t-il au moins une subordonnée antéposée et une relative enchaînée ? (11 October 2026, 23:00:11 +0200)
+> 6. Les longueurs de phrase varient-elles réellement, ou toutes font-elles douze mots ? (11 October 2026, 23:00:11 +0200)
+> 7. Y a-t-il des connecteurs français, ou seulement des deux-points ? (11 October 2026, 23:00:11 +0200)
+> 8. Le texte est-il exempt de la figure « ce n'est pas X, c'est Y » et des doublets adverbiaux en -ment postposés (*vrai techniquement, inutile commercialement*) ? (11 October 2026, 23:00:11 +0200)
+> 9. Le texte se termine-t-il autrement que par une punchline assertive ? (11 October 2026, 23:00:11 +0200)
+> 10. Aucun tiret cadratin, aucun tiret demi-cadratin, aucun double tiret. Employer la virgule, les deux-points ou la parenthèse, ou reformuler. (11 October 2026, 23:00:11 +0200)
+>
+> ## Ce qu'il ne faut jamais faire (11 October 2026, 23:00:11 +0200)
+>
+> - Ouvrir par une phrase nominale de slogan. (11 October 2026, 23:00:11 +0200)
+> - Enchaîner trois phrases courtes de même structure sujet-verbe-complément. (11 October 2026, 23:00:11 +0200)
+> - Traduire *it's not about X, it's about Y* par « ce n'est pas X, c'est Y ». Une occurrence par texte au maximum. (11 October 2026, 23:00:11 +0200)
+> - Utiliser des titres en gras pour découper une histoire. Une histoire est de la prose continue. (11 October 2026, 23:00:11 +0200)
+> - Terminer chaque paragraphe par une formule fermée qui interdit la suite. (11 October 2026, 23:00:11 +0200)
+> - Employer *actionnable, impacter, adresser un problème, supporter* au sens anglais, *définitivement* pour *definitely*. (11 October 2026, 23:00:11 +0200)
+> - Mélanger passé simple et passé composé en narration. (11 October 2026, 23:00:11 +0200)
+> - Mettre un passé antérieur sans subordonnée temporelle qui le justifie. (11 October 2026, 23:00:11 +0200)
+>
+> ## Exemple de transformation (11 October 2026, 23:00:11 +0200)
+>
+> **Avant, prose calquée sur l'anglais** (11 October 2026, 23:00:11 +0200)
+>
+> > Marc arrive au village. Il fait froid. La maison est vide depuis dix ans. Il ouvre la porte. Il y a de la poussière partout. Ce n'est pas un retour, c'est un constat. Il comprend qu'il n'aurait jamais dû revenir. (11 October 2026, 23:00:11 +0200)
+>
+> Diagnostic : présent uniforme, six phrases de longueur identique, aucune subordination, figure anglo-saxonne, chute fermée. (11 October 2026, 23:00:11 +0200)
+>
+> **Après, régime littéraire** (11 October 2026, 23:00:11 +0200)
+>
+> > Marc arriva au village par le chemin bas, celui que sa mère lui interdisait autrefois parce qu'il longeait la rivière. Le froid tenait depuis novembre et n'avait pas lâché. La maison, que personne n'avait rouverte depuis dix ans, se tassait un peu plus chaque hiver sous son toit d'ardoise, et il fallut peser de l'épaule pour que la porte cédât. (11 October 2026, 23:00:11 +0200)
+> > (11 October 2026, 23:00:11 +0200)
+> > Dès qu'il fut entré, la poussière se leva. Elle flottait dans la lumière grise, lente, comme si elle eût attendu quelqu'un. Il resta un moment sur le seuil, sans poser son sac. Il allait devoir monter à l'étage, ouvrir les volets, faire l'inventaire de ce qui restait, et il n'en avait aucune envie. Plus tard, il se dirait qu'il aurait mieux fait de repartir tout de suite. (11 October 2026, 23:00:11 +0200)
+> > (11 October 2026, 23:00:11 +0200)
+> > Il ne repartit pas. (11 October 2026, 23:00:11 +0200)
+>
+> Ce que fait la version longue : arrière-plan à l'imparfait, premier plan au passé simple, plus-que-parfait pour la profondeur, passé antérieur après *dès que*, subjonctif imparfait après *pour que*, deuxième forme littéraire avec *comme si elle eût attendu*, futur du passé avec *il allait devoir* et *il se dirait*, subordonnée relative enchaînée, période longue suivie d'une chute de quatre mots. (11 October 2026, 23:00:11 +0200)
+>
+>
+> ARGUMENTS: Histoire informative et addictive du workflow zenray-height, de A à Z, pour que Matthieu apprenne exactement ce qui a été construit. (11 October 2026, 23:00:11 +0200)
+
+## 11 October 2026, 23:06:11 +0200 : Log
+
+<!-- feedback-event:2353f439694b04ca8c6a803e698c3f223a720944140db7e3b39c0b1db5e78b5c (11 October 2026, 23:06:11 +0200) -->
+- Project: zenray-height; kind: log. (11 October 2026, 23:06:11 +0200)
+
+> Constat visuel (11 October 2026) : au zoom x4, les passes intermédiaires L2p (Pearson 0,983, bande 1-2 px 0,91) restent lisses ; le grain fin de la référence manque et les traits tracés sont plus fins et plus vifs que les bandes réelles (écart-type du détail fin 0,025 contre 0,020 pour la référence, énergie venant d'arêtes artificielles). Prochain : grain placé, traits élargis, décision L3 de Matthieu. Planche : /Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2p/piq_ref_L2c_L2p.png ; récit : /Users/zenray/.claude/tmp/tmp-zenray-height/story/2026-10-11_HistoireDuWorkflow.md (11 October 2026, 23:06:11 +0200)
+
+## 11 October 2026, 23:06:12 +0200 : Iteration
+
+<!-- feedback-event:12aaa104c1ca8ca4087bc97ff3886f3eb4fe2d50b165f4f8475b27e505dbd6eb (11 October 2026, 23:06:12 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 23:06:12 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 23:06:12 +0200)
+
+> Les passes répétées à 4 px tournent dans Houdini. J'attends que chacune soit gardée ou rejetée, puis je lance la même chose pour L3. (11 October 2026, 23:06:12 +0200)
+
+## 11 October 2026, 23:06:20 +0200 : Iteration
+
+<!-- feedback-event:9a9a93383ee49f0b451dd35b6aec94e310023d73e0491b6c99d0974addd6979e (11 October 2026, 23:06:20 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 23:06:20 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 23:06:20 +0200)
+
+> Passe 7 gardée (0,985, piqué 0,93) ; j'attends la fin de la passe 8 et de l'histogramme. (11 October 2026, 23:06:20 +0200)
+
+## 11 October 2026, 23:06:56 +0200 : Iteration
+
+<!-- feedback-event:b01d5ac01580add21c005bb4bb55772d393f0c42a352e6a316068003611b133e (11 October 2026, 23:06:56 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 23:06:56 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/97dafd1e-ddee-454d-997b-6216fe6d4064.jsonl. (11 October 2026, 23:06:56 +0200)
+
+> # La faïence qu'on n'avait pas le droit de décalquer (11 October 2026, 23:06:56 +0200)
+>
+> I (11 October 2026, 23:06:56 +0200)
+>
+> Le 11 octobre 2026, au milieu de l'après-midi, Matthieu dicta un message si long que l'agent dut le relire deux fois avant d'en dégager la commande, laquelle tenait pourtant en une exigence simple à énoncer et redoutable à tenir : reproduire une carte de hauteur à 99 ou 100 pour cent, couche après couche, dans un vrai graphe Copernicus qu'on pourrait ouvrir et lire, sans jamais y coller la moindre image de référence. Une carte de hauteur n'est qu'une image en niveaux de gris où le blanc monte et le noir se creuse, et c'est elle qui donne à un mur son relief quand la lumière le frôle. L'agent connaissait l'échec qui motivait cette remise à zéro. Sur la fenêtre de Louisiana Bayou, la boucle M01 avait enchaîné des dizaines de passes sans que sa pire cellule descendît sous 0,047 d'écart, parce qu'elle semait ses écailles de peinture au hasard : les proportions de clair et de sombre étaient justes, mais aucune écaille ne tombait à sa place, et la superposition de ses masques avec ceux de la référence restait entre 0,03 et 0,20. Il ouvrit donc le projet zenray-height dans ZenRay Assets, se brancha par le pont MCP sur la session Houdini où la scène de Louisiana Bayou était ouverte, et qui ne servirait que de terrain d'essai, puis fit ce que Matthieu avait ordonné en premier : déclarer dépréciées toutes les méthodes du skill zenray-houdini, sans rien effacer, et relire chacune pour en extraire ce qu'elle avait appris. L'histoire de ces échecs, rangée dans une section à part, allait devenir la première pierre de la méthode suivante. (11 October 2026, 23:06:56 +0200)
+>
+> II (11 October 2026, 23:06:56 +0200)
+>
+> La référence arriva sous la forme d'une planche de seize vignettes, quatre colonnes de quatre, intitulée Procedural Ceramic Wall Tiles, où chaque colonne montrait une carte différente du même mur de faïence bleue et chaque rangée un carreau différent. Seule la dernière colonne portait la hauteur, et encore fallait-il la redresser, car rien n'y tombait sur un nombre rond de pixels : l'agent repéra le centre de chaque joint, trouva qu'un carreau mesurait 477,56 pixels, rééchantillonna chacun sur 512, puis répéta la colonne quatre fois pour obtenir une texture de 2048 pixels de côté, quatre carreaux sur quatre, dont un masque de validité écartait les dernières lignes abîmées. La couleur demanda un geste de plus. Comme la base color de la planche se présentait à l'envers du relief, il fallut la retourner de gauche à droite pour que chaque motif bleu retombât exactement sur sa bosse ; quant à la vidéo jointe, dont l'éclairage faussait les couleurs, elle ne servit qu'à composer une planche d'images clés, et comme le ffmpeg de ce Mac ne savait pas écrire de texte, quelques lignes de Python le remplacèrent. Deux détails furent notés en passant, que personne n'avait demandés : dans la colonne de hauteur les joints étaient clairs, alors qu'une colonne voisine les montrait sombres comme une occlusion ambiante, et la vidéo disposait ses médaillons en miroir. L'agent aurait pu construire aussitôt ; il préféra mesurer, et ce choix allait décider de tout le reste. (11 October 2026, 23:06:56 +0200)
+>
+> III (11 October 2026, 23:06:56 +0200)
+>
+> Avant toute couche, il fallait un juge, c'est-à-dire un instrument capable de dire sans complaisance à quel point deux hauteurs se ressemblaient. L'agent en bâtit un qui comparait l'ensemble par la corrélation de Pearson, laquelle vaut 1 quand les clairs et les sombres tombent aux mêmes endroits, la structure par le SSIM, chaque échelle de détail séparément, du pixel isolé jusqu'aux formes de 64 pixels, et enfin des masques noir et blanc tranchés aux seuils de la référence, dont on comptait la superposition. Il le testa dans les deux sens, seule manière de croire un vérificateur : la référence comparée à elle-même obtint la note parfaite, la même image inversée échoua partout. Les mesures vinrent ensuite. Le joint culminait à 0,828 en son centre et retombait en une dizaine de pixels sur un plateau voisin de 0,55, les quatre rangées de carreaux valaient en moyenne 0,520, 0,527, 0,610 et 0,674 de haut en bas, et la médiane de l'image se situait à 0,578. Restait à savoir jusqu'où l'on pouvait aller sans tricher. L'agent fixa une frontière simple : la référence ne servirait qu'à mesurer et n'entrerait jamais dans le graphe, où ne pénétreraient que des mesures, tables, courbes ou polygones vectoriels conservés dans des nœuds Stash. Il y ajouta une échelle à quatre barreaux, qui menait du simple réglage statistique à la structure, puis aux formes mesurées, et enfin à une vectorisation si fine qu'elle frôlerait le décalque, ce dernier barreau ne devant appartenir qu'à la décision de Matthieu. (11 October 2026, 23:06:56 +0200)
+>
+> IV (11 October 2026, 23:06:56 +0200)
+>
+> Encore fallait-il connaître les outils. Pendant que l'agent mesurait, des agents auxiliaires dépouillèrent la documentation en parallèle, chacun écrivant son livrable sur le disque avant de rendre la main, afin qu'aucune coupure ne pût en perdre une ligne. Ils rapportèrent les 372 nœuds Copernicus de Houdini 22.0.368, tirés de l'aide locale et vérifiés contre la session ouverte, la page où SideFX explique Copernicus aux utilisateurs de Substance Designer, que Matthieu envoya en cours de route, les 515 nœuds de Designer avec leurs équivalents, les techniques de Substance Painter et de Javier Perez, vingt-deux méthodes tirées de la recherche récente et un catalogue des familles de matériaux. Le tout fut assemblé dans un fichier unique, Copernicus2.md, de 2,6 mégaoctets et plus de vingt mille lignes, précédé d'un index qui donne la ligne de départ de chaque section ; un petit routeur en extrait la seule page utile sans charger le reste, de sorte qu'un agent futur trouverait les paramètres d'un nœud en une commande. Cette bibliothèque disait tout de ce que faisaient les nœuds, mais rien de la méthode qui l'emporterait, et pour le savoir il fallut organiser un concours. (11 October 2026, 23:06:56 +0200)
+>
+> V (11 October 2026, 23:06:56 +0200)
+>
+> Seize méthodes entrèrent en lice, chacune jouée en quatre phases, construite pour de bon dans un réseau Copernicus de la scène ouverte, sous /obj/ZRH_MethodSearch, et notée par le même juge. Le classement fut d'une netteté que nul n'attendait. Les méthodes purement statistiques, qui empilaient des bruits calibrés sur les bonnes fréquences, restèrent entre 0,07 et 0,40 de corrélation et reculaient chaque fois qu'on leur ajoutait du bruit, parce qu'un grain juste mais mal placé ajoute autant d'erreur qu'il en retire ; la structure seule, joints et tables par carreau, plafonna vers 0,68 ; seules les méthodes qui mesuraient la position des formes propres à l'image dépassèrent 0,93, et la quatorzième, faite de régions vectorielles à plusieurs échelles, atteignit 0,971. Le concours fit aussi remonter des pièges qu'aucune lecture n'aurait révélés : les rampes de Copernicus croissent vers le haut de l'image, ce qui avait d'abord retourné toutes les tables de rangées ; un remplissage de contours ignorait les trous imbriqués ; un étiquetage des zones trop lent bloqua un lot entier, qu'il fallut arrêter, réécrire par segments et relancer. La méthode retenue naquit d'un mariage entre la règle de la première, qui ne garde une couche que si elle paie, et les régions mesurées de la quatorzième. (11 October 2026, 23:06:56 +0200)
+>
+> VI (11 October 2026, 23:06:56 +0200)
+>
+> L'exécution commença dans /obj/ZRH_CeramicWallTiles et suivit à la lettre le vœu de Matthieu, une couche à la fois. À chaque tour, l'agent calculait le résidu, la référence moins le résultat courant, autrement dit ce qu'il restait à expliquer ; il proposait une seule couche, la construisait en vrais nœuds, Remap pour porter une courbe mesurée, Blend pour additionner, Rasterize Geometry pour poser des polygones, Blur pour en adoucir le bord, puis exportait l'image en 16 bits, la mesurait et ne la gardait que si la note progressait d'au moins 0,002. Le profil du joint donna 0,39 de corrélation ; les profils de chaque côté du carreau, 0,42 ; la valeur de chaque rangée, 0,62 ; une pente par rangée, 0,681 ; les quatre coins, 0,684. Vinrent ensuite les régions, dont le principe rappelle la peinture à numéros : on floute le résidu à une certaine échelle, on le découpe en huit niveaux de gris, chaque zone devient un polygone porteur de sa valeur, et les plus petites se posent par-dessus les plus grandes. À l'échelle de 32 pixels la corrélation monta à 0,80, à 16 à 0,86, à 8 à 0,91 ; des traits tracés le long des crêtes et des taches compactes la portèrent à 0,926, puis les régions de 4 pixels à 0,957, tandis que le grain statistique, essayé à son tour, la faisait tomber à 0,80 et se voyait rejeté, comme le concours l'avait annoncé. Chaque couche acceptée reposait dans sa propre boîte réseau et laissait son image sur le disque, si bien qu'on pouvait relire la construction du mur comme on feuillette un carnet. L'agent eut alors l'idée de répéter la texture deux fois sur deux, comme un carreleur pose ses premiers carreaux côte à côte, et ce qu'il vit au bord allait l'occuper une bonne heure. (11 October 2026, 23:06:56 +0200)
+>
+> VII (11 October 2026, 23:06:56 +0200)
+>
+> Au raccord, le saut entre la dernière colonne et la première était onze fois plus fort que le saut médian entre deux pixels voisins, quand la référence n'en était qu'à 1,45 : posée sur un mur, la texture aurait dessiné une ligne à chaque répétition. L'agent remonta les couches une à une et trouva au milieu de chaque joint une petite dent de scie, 0,813, puis 0,772, puis 0,859 sur trois pixels consécutifs. La cause tenait à la manière même dont on avait bâti les couches par carreau, valeurs, pentes et coins, qui changeaient de valeur exactement au centre du joint, de sorte que deux carreaux voisins s'y rencontraient sans transition ; la pente par rangée y creusait à elle seule une marche de 0,137. Plutôt que de deviner un remède, il en lut la largeur dans la mesure : le profil du joint rejoignait son plateau à dix pour cent près à 0,0195 carreau, soit une dizaine de pixels, et c'est sur cette distance que les couches par carreau apprirent à s'éteindre en douceur, comme une marée qui se retire avant la digue. Le raccord horizontal se ferma aussitôt, mais le vertical restait obstinément à 8,2, et un second coupable se cachait dans les traits : ceux qui touchaient le bord du canevas étaient coupés par l'enroulement, si bien que leur moitié manquait de l'autre côté. Dès qu'on eut écarté toute forme tracée à moins de huit pixels du bord, le saut tomba à 0,67 et 1,19, en deçà de la référence, sans que la ressemblance perdît plus d'un millième. La couleur, à laquelle l'agent passa ensuite, lui réservait un défaut d'une autre nature. (11 October 2026, 23:06:56 +0200)
+>
+> VIII (11 October 2026, 23:06:56 +0200)
+>
+> La base color suivit la même règle, avec des couleurs au lieu de gris : une teinte d'émail prise à la médiane des intérieurs de carreaux, la couleur du joint posée sur la trame mesurée de la hauteur, puis des régions de couleur obtenues en regroupant les pixels en six, dix et quatorze teintes, à 256, 512 puis 1024 pixels. Les essais préliminaires avaient déjà corrigé deux erreurs, un voisinage à huit pixels qui soudait des zones que le contour séparait et un décalage d'un demi-pixel ; dans Houdini, pourtant, l'écart de couleur restait à 11,96, et l'agent découvrit que 1,2 pour cent des pixels n'appartenaient à aucun polygone et sortaient noirs. Dès qu'on eut appris à chaque couche de couleur à se poser par-dessus la précédente selon sa couverture, l'écart tomba à 7,70, tout près du plafond de 7,5 qu'impose une palette de quatorze teintes ; seul le raccord vertical resta imparfait, la couleur de la planche n'étant elle-même pas raccordée en hauteur. La variante fine à deux pixels, gardée dans un réseau à part puisqu'elle frôlait le décalque, monta à 0,978. Les trois références de Louisiana Bayou, window, whitepaint et tile, firent d'abord tomber le juge, car leurs 1254 pixels ne se découpaient pas en blocs entiers sur ses grilles, et on les rééchantillonna en 2048. Sans aucun réglage propre à chacune, la méthode donna 0,901 sur la fenêtre, celle-là même où l'ancienne boucle s'était épuisée, 0,942 sur la peinture blanche et 0,967 sur la tuile, et toutes se raccordaient au tuilage, même quand leur référence ne se raccordait pas. Tout fut consigné, une section de résultats dans Copernicus2.md, la méthode et sa table de correspondance dans le skill, la synchronisation vers Codex et Memory, une entrée au journal et un point de contrôle dans ZenRay Assets ; seul le catalogue des familles de matériaux demeura inachevé, son agent ayant été arrêté au groupe I quand la limite d'usage approcha. (11 October 2026, 23:06:56 +0200)
+>
+> IX (11 October 2026, 23:06:56 +0200)
+>
+> Matthieu regarda les planches et rendit un verdict nuancé : c'était presque parfait, mais il manquait du piqué, comme si des étapes intermédiaires avaient été sautées. L'agent en comprit la mécanique. Une région ne connaît que huit niveaux, si bien qu'après chaque passe subsistait une erreur de quantification, que le flou adoucissait encore en lissant ses bords ; d'où l'idée de passes intermédiaires, qui reprendraient le résidu laissé par la passe précédente et le replaceraient avec huit nouveaux niveaux plus fins et moins de flou, à la manière d'un peintre qui revient glacer une toile déjà sèche. Au moment où ce récit fut écrit, une autre session faisait tourner ces passes : deux propositions, de nouveaux traits et de nouvelles taches, furent rejetées faute de payer, mais la deuxième passe à huit pixels puis les passes successives à quatre pixels portèrent la ressemblance de 0,966 à 0,983, et la corrélation du détail le plus fin, celui d'un ou deux pixels, de 0,79 à 0,91. Le zoom au quadruple racontait pourtant une autre histoire que les chiffres. Là où la référence montrait une surface grenue, piquetée de minuscules creux, et des bandes larges et douces autour des volutes, les deux versions restaient lisses comme une glaise, traversées de traits plus fins et plus vifs que les bandes qu'ils imitaient ; l'énergie du détail fin y était même plus forte que dans la référence, 0,025 contre 0,020, parce qu'elle venait de ces arêtes artificielles et non du grain. Le juge avait encore récompensé ce que l'œil refusait. Il faudrait donc, pour franchir la dernière marche, remettre le grain à sa place plutôt qu'en vrac, élargir les traits jusqu'à la largeur des bandes, et savoir surtout si Matthieu accepterait qu'on descendît jusqu'aux régions de deux pixels, au bord du décalque. (11 October 2026, 23:06:56 +0200)
+>
+> --- (11 October 2026, 23:06:56 +0200)
+>
+> Le récit est enregistré dans [/Users/zenray/.claude/tmp/tmp-zenray-height/story/2026-10-11_HistoireDuWorkflow.md](/Users/zenray/.claude/tmp/tmp-zenray-height/story/2026-10-11_HistoireDuWorkflow.md). (11 October 2026, 23:06:56 +0200)
+>
+> Le dernier chapitre repose sur une vérification faite juste avant d'écrire, et il t'apporte du nouveau. Le score des passes intermédiaires monte bien, mais le zoom montre que le piqué qui te manque correspond au grain de la surface, et que les traits tracés sont trop fins et trop vifs. La planche de comparaison est ici : [/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2p/piq_ref_L2c_L2p.png](/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2p/piq_ref_L2c_L2p.png). Une autre session fait tourner ces passes en ce moment, et je n'y ai pas touché. (11 October 2026, 23:06:56 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (11 October 2026, 23:06:56 +0200)
+> |---|---|---| (11 October 2026, 23:06:56 +0200)
+> | Une histoire de A à Z, exacte et qui donne envie de lire la suite | Oui ; à toi de dire si elle accroche | Chaque chiffre a été relu dans les journaux de calcul et les mesures de l'atelier | (11 October 2026, 23:06:56 +0200)
+> | Comprendre ce qui manque encore au piqué | Oui, et c'est une découverte | Au zoom × 4, le grain de la surface manque et les traits sont trop vifs ; l'énergie du détail fin vaut 0,025 contre 0,020 pour la référence | (11 October 2026, 23:06:56 +0200)
+> | Le skill zenray-learn-with-story | Pas encore | Comme tu l'as demandé, j'attends ton avis sur cette histoire | (11 October 2026, 23:06:56 +0200)
+>
+> Ta demande, en plus court : « Raconte tout le workflow zenray-height comme une histoire à suspense, exacte et complète, pour que j'apprenne ce que tu as construit ; si la forme marche, on en fera le skill zenray-learn-with-story. » (11 October 2026, 23:06:56 +0200)
+>
+> Trois mots utiles : (11 October 2026, 23:06:56 +0200)
+> - **Résidu** : ce qu'il reste à expliquer, c'est-à-dire la référence moins le résultat courant. (11 October 2026, 23:06:56 +0200)
+> - **Quantification** : ramener une valeur continue à un petit nombre de niveaux, ici huit gris par passe. (11 October 2026, 23:06:56 +0200)
+> - **Approximation successive** : chaque passe corrige l'erreur laissée par la précédente, de plus en plus finement. (11 October 2026, 23:06:56 +0200)
