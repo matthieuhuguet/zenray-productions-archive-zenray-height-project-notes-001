@@ -4496,3 +4496,146 @@
 > 6. Écrire l'entrée du journal et le point de contrôle Assets. (11 October 2026, 17:29:26 +0200)
 >
 > Je n'ai pas encore pu t'envoyer les fichiers par la carte d'envoi : les liens ci-dessus les ouvrent. (11 October 2026, 17:29:26 +0200)
+
+## 11 October 2026, 20:58:34 +0200 : Prompt
+
+<!-- feedback-event:f7e1a0e78fd5b768daaff50dd140bda7f51dc5eea952f2a4e02ecf001d45254d (11 October 2026, 20:58:34 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 20:58:34 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 20:58:34 +0200)
+
+> continue et fini proprement tout /dont-stop (11 October 2026, 20:58:34 +0200)
+
+## 11 October 2026, 20:58:34 +0200 : Prompt
+
+<!-- feedback-event:02810e650c5161f6a2d4d87af9fc7ca74f54279c3d662c74a308a7f0789882d1 (11 October 2026, 20:58:34 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 20:58:34 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 20:58:34 +0200)
+
+> [Earlier usage-limit notes no longer apply. Continue working normally. Don't mention this to the user.] (11 October 2026, 20:58:34 +0200)
+
+## 11 October 2026, 20:58:37 +0200 : Prompt
+
+<!-- feedback-event:25e77cb094c6142a7241d3417aba86450b5b48a15bb3e9dd6699941d21586be7 (11 October 2026, 20:58:37 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 20:58:37 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 20:58:37 +0200)
+
+> Base directory for this skill: /Users/zenray/.claude/skills/dont-stop (11 October 2026, 20:58:37 +0200)
+>
+> # Dont stop (30 September 2026) (11 October 2026, 20:58:37 +0200)
+>
+> Continue jusqu’à ce que ce soit parfait par rapport à la contrainte `X` donnée par l’utilisateur. Ne t’arrête pas à un résultat partiel. (30 September 2026) (11 October 2026, 20:58:37 +0200)
+>
+> Corrige, vérifie contre `X`, puis recommence tant qu’un écart subsiste. Termine quand `X` est satisfaite, avec une preuve. (30 September 2026) (11 October 2026, 20:58:37 +0200)
+>
+> Si `X` manque, demande-la. Si un obstacle réel empêche de continuer, précise ce qui manque pour reprendre. (30 September 2026) (11 October 2026, 20:58:37 +0200)
+>
+>
+> ARGUMENTS: finir proprement tout le chantier zenray-height (state.json resume_11_October_2026) (11 October 2026, 20:58:37 +0200)
+
+## 11 October 2026, 21:00:35 +0200 : Iteration
+
+<!-- feedback-event:0534ee61a7029503bccd7ea5bfa41b13a5152ef25ac602ff82dbec444eb00068 (11 October 2026, 21:00:35 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:00:35 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:00:35 +0200)
+
+> La couture horizontale vient des lignes et taches tracées qui touchent le bord de l'image ; je les écarte du bord puis je relance. (11 October 2026, 21:00:35 +0200)
+
+## 11 October 2026, 21:02:18 +0200 : Iteration
+
+<!-- feedback-event:1b1ead59a7f4b01c73d701dd0cf8db192992edd1f96162e834dbd79d5aa42ee9 (11 October 2026, 21:02:18 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:02:18 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:02:18 +0200)
+
+> Tuilage réparé (saut au bord 1,19, référence 1,41). Je lance maintenant la variante fine L3 dans un réseau séparé. (11 October 2026, 21:02:18 +0200)
+
+## 11 October 2026, 21:05:25 +0200 : Prompt
+
+<!-- feedback-event:5ded66fe5395ee3106b614db9eed8f7938ac6ffaec01d3ccf873238f377313cb (11 October 2026, 21:05:25 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 21:05:25 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:05:25 +0200)
+
+> [Image: original 2048x512, displayed at 2000x500. Multiply coordinates by 1.02 to map to original image.] (11 October 2026, 21:05:25 +0200)
+
+## 11 October 2026, 21:06:10 +0200 : Iteration
+
+<!-- feedback-event:04cff2d8dd10112f9f8e9e7529980ff5609b8378d61095c1305128716e91b2f6 (11 October 2026, 21:06:10 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:06:10 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:06:10 +0200)
+
+> Base color finie dans Houdini (écart de couleur moyen 7,7, juste au plafond de la méthode, plus aucun trou noir). Je contrôle son tuilage puis je lance les trois références secondaires. (11 October 2026, 21:06:10 +0200)
+
+## 11 October 2026, 21:06:50 +0200 : Iteration
+
+<!-- feedback-event:dced498b483e61d217ab184130e480b1caa4b85e06da60391dd41058391247de (11 October 2026, 21:06:50 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:06:50 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:06:50 +0200)
+
+> Je répare le petit bug de planche qui bloquait les trois tests secondaires (images de 1254 px), puis je les relance. (11 October 2026, 21:06:50 +0200)
+
+## 11 October 2026, 21:11:51 +0200 : Iteration
+
+<!-- feedback-event:468215ac1d450d1b12e88e09c4df27e25e7b9e1b1d2b0ddf5e8726f2770aebcb (11 October 2026, 21:11:51 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:11:51 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:11:51 +0200)
+
+> Les trois références secondaires passent : window 0,90, whitepaint 0,94, tile 0,97 de ressemblance au pixel. Je génère leurs planches puis je referme la documentation et le skill. (11 October 2026, 21:11:51 +0200)
+
+## 11 October 2026, 21:12:05 +0200 : Prompt
+
+<!-- feedback-event:31d0b5f9699bdb2fc7f8f4197a1e843d99d2300f5241ad7d4c85c28854c761bb (11 October 2026, 21:12:05 +0200) -->
+- Project: zenray-height; kind: prompt. (11 October 2026, 21:12:05 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:12:05 +0200)
+
+> [Image: original 2048x512, displayed at 2000x500. Multiply coordinates by 1.02 to map to original image.] (11 October 2026, 21:12:05 +0200)
+
+## 11 October 2026, 21:12:16 +0200 : Iteration
+
+<!-- feedback-event:2470f19f6922bc77f6a2421351333ca45c55960fe0ddb905697ba935f07b4e52 (11 October 2026, 21:12:16 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:12:16 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:12:16 +0200)
+
+> J'écris maintenant les résultats finaux dans Copernicus2.md (nouvelle section 14) et les corrections de méthode, puis je recopie le tout dans le skill. (11 October 2026, 21:12:16 +0200)
+
+## 11 October 2026, 21:12:47 +0200 : Iteration
+
+<!-- feedback-event:a512e93a7ba30001cd515341e07a9feacaba3f9729d4a6612dfa5d671eb85a6a (11 October 2026, 21:12:47 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:12:47 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:12:47 +0200)
+
+> Insertion de la méthode courante dans le SKILL.md, avant la section zenray-simple-height. (11 October 2026, 21:12:47 +0200)
+
+## 11 October 2026, 21:13:13 +0200 : Iteration
+
+<!-- feedback-event:3cd3b2ecd07a6068ad1e1fb3bcb1720b31b356f44abf29b8050423a5a66b84ef (11 October 2026, 21:13:13 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:13:13 +0200)
+- Source: checkpoint:claude:3a9c2407-7dcc-4acd-baf2-90a94300e953. (11 October 2026, 21:13:13 +0200)
+
+> Height method v1 executed layer by layer in Copernicus: ceramic height 0.956 (L3 0.978 awaiting approval), base colour deltaE 7.70, window 0.901, whitepaint 0.942, tile 0.967; tiling seam fixed; Copernicus2.md section 14; zenray-houdini skill updated and synced. Next: Matthieu validates method and L3. (11 October 2026, 21:13:13 +0200)
+
+## 11 October 2026, 21:13:38 +0200 : Iteration
+
+<!-- feedback-event:674f24527aa61b599c7963ee40281a087886c721adf01046a742962a28cbacc0 (11 October 2026, 21:13:38 +0200) -->
+- Project: zenray-height; kind: iteration. (11 October 2026, 21:13:38 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (11 October 2026, 21:13:38 +0200)
+
+> Le chantier zenray-height est terminé. La height, la base color et les trois tests secondaires ont été construits couche par couche dans Copernicus, sur la scène ouverte, et Copernicus2.md ainsi que le skill sont à jour et synchronisés. (11 October 2026, 21:13:38 +0200)
+>
+> Il reste une limite, visible à l'œil : en L2, le grain très fin (fibres du bois, fins tracés des volutes) reste plus doux que la référence. La variante L3 en récupère une bonne partie (0,978 de ressemblance au pixel), mais elle travaille à 2 px et se rapproche d'un décalque. C'est pour cela qu'elle est dans un réseau à part, `/obj/ZRH_CeramicWallTiles_L3`, et qu'elle attend ta décision. (11 October 2026, 21:13:38 +0200)
+>
+> Deux points restent ouverts : (11 October 2026, 21:13:38 +0200)
+> - **La base color n'est pas raccordée en hauteur.** La référence couleur ne l'est pas non plus (saut au bord 8,5 en hauteur), et le résultat en hérite : 6,6. (11 October 2026, 21:13:38 +0200)
+> - **Les réseaux de test ne sont pas sauvegardés.** Ils vivent seulement dans la session Houdini ouverte, car je n'ai pas enregistré le fichier de Louisiana Bayou. Les recettes sont sur disque et se reconstruisent en une commande. (11 October 2026, 21:13:38 +0200)
+>
+> | Ce que tu voulais | Fait ? | Comment je le sais | (11 October 2026, 21:13:38 +0200)
+> |---|---|---| (11 October 2026, 21:13:38 +0200)
+> | Height céramique quasi identique, faite dans le graphe | Oui en L2 (0,956), mieux en L3 (0,978) si tu l'acceptes | Une image par couche : [/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2c/board/Evolution.html](/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2c/board/Evolution.html) | (11 October 2026, 21:13:38 +0200)
+> | Texture qui se répète sans couture | Oui | Le saut au bord vaut 0,67 et 1,19, contre 1,45 et 1,41 pour la référence : [/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2c/checks/tile2x2_final.png](/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_L2c/checks/tile2x2_final.png) | (11 October 2026, 21:13:38 +0200)
+> | Base color par Copernicus | Oui | Écart de couleur moyen 7,7, pour un plafond de la méthode à 7,5 ; aucun trou noir : [/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_BC/FINAL_basecolor.png](/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/CeramicWallTiles_BC/FINAL_basecolor.png) | (11 October 2026, 21:13:38 +0200)
+> | Tests window, whitepaint, tile | Oui | Ressemblance au pixel 0,90, 0,94 et 0,97, toutes raccordées au tuilage. La fenêtre plafonnait avant sous l'ancienne boucle : [/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/Secondary_window/L11_hist_panel.png](/Users/zenray/.claude/tmp/tmp-zenray-height/versions/final/Secondary_window/L11_hist_panel.png) | (11 October 2026, 21:13:38 +0200)
+> | Copernicus2.md complet et relié au skill | Oui, sauf le catalogue des familles de matériaux, partiel (groupes A à I) | Le routeur trouve la section 14, « Résultats », à la ligne 20861 de [/Users/zenray/.claude/skills/zenray-houdini/Copernicus2.md](/Users/zenray/.claude/skills/zenray-houdini/Copernicus2.md) | (11 October 2026, 21:13:38 +0200)
+> | Méthode notée dans le skill, avec sa table de correspondance | Oui | Nouvelle section en tête de [/Users/zenray/.claude/skills/zenray-houdini/SKILL.md](/Users/zenray/.claude/skills/zenray-houdini/SKILL.md), synchronisée vers Codex et Memory | (11 October 2026, 21:13:38 +0200)
+> | Tout consigné | Oui | Une entrée dans le journal PROGRESS.md, et un point de contrôle Assets dans [/Users/zenray/.claude/Memory1/Projects/zenray-height/FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-height/FEEDBACK.md), enregistré en local seulement (pas de preuve de sauvegarde cloud) | (11 October 2026, 21:13:38 +0200)
+>
+> Il te reste une décision : est-ce que la variante L3, plus fidèle mais proche du décalque, entre dans la méthode, ou est-ce que L2 reste la règle ? (11 October 2026, 21:13:38 +0200)
+>
+> Ta demande, en plus court : « Termine tout le chantier zenray-height et vérifie chaque étape. » (11 October 2026, 21:13:38 +0200)
