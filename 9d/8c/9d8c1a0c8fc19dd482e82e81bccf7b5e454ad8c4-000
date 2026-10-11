@@ -5170,3 +5170,35 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:13:48 +0200)
 
 > Deux calculs tournent : les passes au pixel sur la fenêtre, jugées cette fois en pleine résolution, et la céramique relancée avec le bord propre. J'attends leurs premiers résultats. (12 October 2026, 00:13:48 +0200)
+
+## 12 October 2026, 00:18:59 +0200 : Iteration
+
+<!-- feedback-event:4f893eb9da6d66d15a5e6b6f593dc65afcd54dfe889c750fc2be76570287d9ae (12 October 2026, 00:18:59 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:18:59 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:18:59 +0200)
+
+> Le bord « wrap » est l'entrée 3 du menu. J'écris la couche égaliseur, son ajustement par moindres carrés et le plan final : passes au pixel, égaliseur, puis histogramme. (12 October 2026, 00:18:59 +0200)
+
+## 12 October 2026, 00:21:00 +0200 : Iteration
+
+<!-- feedback-event:a74306f71ad1d0c91e492ad09485640c5d1e0dc04e8bb54e27900f7ddc0e37fe (12 October 2026, 00:21:00 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:21:00 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:21:00 +0200)
+
+> Pendant le finissage, je consigne dans la méthode les leçons de cette séquence : mesure en pleine résolution, étalonnage du Blur, égaliseur mesuré, raccord par bande de 8 px. (12 October 2026, 00:21:00 +0200)
+
+## 12 October 2026, 00:32:19 +0200 : Iteration
+
+<!-- feedback-event:e73146e44508d1175c67a5f1cf6458040973a7cf28a91ad1e00b108e48882945 (12 October 2026, 00:32:19 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:32:19 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:32:19 +0200)
+
+> La céramique se recalcule de bout en bout, environ 8 minutes. Pendant ce temps, j'inscris dans Copernicus2.md les résultats finaux des trois autres heights, mesurés en pleine résolution. (12 October 2026, 00:32:19 +0200)
+
+## 12 October 2026, 00:40:29 +0200 : Iteration
+
+<!-- feedback-event:30901e2e2da3c6c475aac690a1749f465e856bfd08814d31d956982c4bc0f729 (12 October 2026, 00:40:29 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 00:40:29 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 00:40:29 +0200)
+
+> La céramique finit à **0,9976** en pleine résolution, et son bord haut et bas est maintenant parfaitement continu (rapport 0,11). Je vérifie ce bord à l'œil. (12 October 2026, 00:40:29 +0200)
