@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-12T08:31:35.801Z",
+ "scannedAt": "2026-10-12T09:11:28.660Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -79,8 +79,8 @@
    "provider": "claude",
    "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
    "title": "Motion Design V2",
-   "updatedAt": "2026-10-12T08:31:29.746Z",
-   "bytes": 8215539,
+   "updatedAt": "2026-10-12T09:11:09.884Z",
+   "bytes": 11498188,
    "boundProject": "zenray-motion-design"
   },
   {
