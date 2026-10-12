@@ -15211,3 +15211,82 @@
 > La sauvegarde cloud de `zenray-height` avance de son côté : 4 720 fichiers prouvés, 396 en attente, sans erreur. (12 October 2026, 06:52:16 +0200)
 >
 > Ceci n'est pas une source de vérité : vérifie et fie-toi à ton for intérieur. (12 October 2026, 06:52:16 +0200)
+
+## 12 October 2026, 09:31:06 +0200 : Prompt
+
+<!-- feedback-event:2369058e375efd709e60f6981b3c3c5736f99acbb7edb997ad81cdd6e7460eff (12 October 2026, 09:31:06 +0200) -->
+- Project: zenray-height; kind: prompt. (12 October 2026, 09:31:06 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:31:06 +0200)
+
+> Try again (12 October 2026, 09:31:06 +0200)
+
+## 12 October 2026, 09:31:06 +0200 : Prompt
+
+<!-- feedback-event:ce27547377dcdbfa5ea81ecef6b93653c16583fd569e968166bf71b5afa714a9 (12 October 2026, 09:31:06 +0200) -->
+- Project: zenray-height; kind: prompt. (12 October 2026, 09:31:06 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:31:06 +0200)
+
+> [Earlier usage-limit notes no longer apply. Continue working normally. Don't mention this to the user.] (12 October 2026, 09:31:06 +0200)
+
+## 12 October 2026, 09:31:15 +0200 : Iteration
+
+<!-- feedback-event:0e106f803c6d6acd459cffdfe0c020911c58cd817a78223d302cda1cd9560007 (12 October 2026, 09:31:15 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:31:15 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:31:15 +0200)
+
+> Le calcul est allé au bout (pearson 0.9937 en 9,9 min). Je contrôle le rapport, les images finales et le graphe en direct. (12 October 2026, 09:31:15 +0200)
+
+## 12 October 2026, 09:31:34 +0200 : Iteration
+
+<!-- feedback-event:f87dc1f75013da75ee34c7f67bc6c2f07debabef7f090508590e1e3b10184240 (12 October 2026, 09:31:34 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:31:34 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:31:34 +0200)
+
+> Le calcul est terminé, la height finale et le graphe `/obj/ZRH_HeightJavier` existent. Je regarde le zoom ×3, les erreurs de cook du graphe et le critère de raccord. (12 October 2026, 09:31:34 +0200)
+
+## 12 October 2026, 09:31:49 +0200 : Iteration
+
+<!-- feedback-event:0797f275968447e017e9450697f6abe5a798e4ac73c2751cbe2cfd3e4dccef16 (12 October 2026, 09:31:49 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:31:49 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:31:49 +0200)
+
+> Le zoom montre une bonne concordance de la structure, avec des rayures horizontales claires que la référence n'a pas. Le contrôle live a échoué sur un attribut inexistant pour un nœud COP ; je le relance sans cet attribut, et je regarde le critère de raccord et le script de rangement. (12 October 2026, 09:31:49 +0200)
+
+## 12 October 2026, 09:32:04 +0200 : Iteration
+
+<!-- feedback-event:70a957da223183a2bd8c915bd9417384f28b5b659ff83a9664fc9efceb066e99 (12 October 2026, 09:32:04 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:32:04 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:32:04 +0200)
+
+> Contrôle live propre : 181 nœuds, zéro erreur de cook, `OUT_height` affiché. La height finale fait 2048 × 2048. Je range le réseau avec le script de rangement, qui ne fait que déplacer et colorier, et je relance l'enregistrement Assets. (12 October 2026, 09:32:04 +0200)
+
+## 12 October 2026, 09:32:17 +0200 : Iteration
+
+<!-- feedback-event:884e30a7cf4938d10a179e419a2c3b3aea5c82606458281fd6ba9ac533f352f9 (12 October 2026, 09:32:17 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:32:17 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:32:17 +0200)
+
+> L'enregistrement Assets passe cette fois (`sessionBound: true`, sauvegarde cloud non confirmée). Je termine par l'entrée de journal. (12 October 2026, 09:32:17 +0200)
+
+## 12 October 2026, 09:32:32 +0200 : Iteration
+
+<!-- feedback-event:0d60abda84d07b8c9cd49ada21da3b73b598f10d814fb48a346475fa97235f46 (12 October 2026, 09:32:32 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 09:32:32 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 09:32:32 +0200)
+
+> La height HeightJavier est reproduite dans la scène LouisianaBayou ouverte, en niveau FULL et sans base color. Le verdict visuel te revient. (12 October 2026, 09:32:32 +0200)
+>
+> | Ce qu'il voulait | Fait ? | Comment je le sais | (12 October 2026, 09:32:32 +0200)
+> |---|---|---| (12 October 2026, 09:32:32 +0200)
+> | Reproduire la height de height-javier dans la scène LouisianaBayou via le MCP | Oui | Calcul terminé en 9,9 min. Graphe `/obj/ZRH_HeightJavier` : 181 nœuds, zéro erreur de cook, `OUT_height` affiché | (12 October 2026, 09:32:32 +0200)
+> | Ressemblance mesurée | Oui | Corrélation (Pearson) 0,9937, SSIM 0,9568, erreur moyenne 0,0115 à 2048 px ([REPORT.md](/Users/zenray/.claude/tmp/tmp-zenray-height/projects/HeightJavier/REPORT.md)) | (12 October 2026, 09:32:32 +0200)
+> | Raccord de la texture | Partiel | x 0,84 (proche de 1, pas de couture visible). y 1,4 : au-dessus de 1, donc non validé | (12 October 2026, 09:32:32 +0200)
+> | Zoom ×3 relu à l'œil | Oui, verdict à toi | [zoom](/Users/zenray/.claude/tmp/tmp-zenray-height/projects/HeightJavier/zoom3_reference_vs_result.png) : strates et fentes concordantes. Grain plus doux que la référence, rayures claires horizontales parasites dans la bande centrale | (12 October 2026, 09:32:32 +0200)
+> | Journal et suivi | Oui | Entrée ajoutée à [PROGRESS.md](/Users/zenray/.claude/PROGRESS.md) et prompt noté dans [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/zenray-height/FEEDBACK.md). Conversation liée au projet Assets, sauvegarde cloud non confirmée | (12 October 2026, 09:32:32 +0200)
+>
+> Height finale : [FINAL_height.png](/Users/zenray/.claude/tmp/tmp-zenray-height/projects/HeightJavier/versions/final/HeightJavier_H2/FINAL_height.png), 2048 × 2048. (12 October 2026, 09:32:32 +0200)
+>
+> **Reste à faire :** (12 October 2026, 09:32:32 +0200)
+> - Juger le zoom, et vérifier le raccord en y (1,4) au bord haut et bas. (12 October 2026, 09:32:32 +0200)
+> - Décider de la sauvegarde de [LouisianaBayou.hiplc](/Users/zenray/Create/Build/Productions/ZenRayHoudini/LouisianaBayou/LouisianaBayou.hiplc). Je n'ai rien sauvegardé. (12 October 2026, 09:32:32 +0200)
+> - Base color : seulement si tu la veux, avec une image colorée alignée. (12 October 2026, 09:32:32 +0200)
