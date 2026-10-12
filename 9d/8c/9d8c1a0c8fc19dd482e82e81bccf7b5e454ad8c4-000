@@ -15156,3 +15156,58 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/ccab5a98-d7b2-46ff-9272-90ae7c64f6d2.jsonl. (12 October 2026, 03:44:35 +0200)
 
 > You've hit your session limit · resets 6:50am (Europe/Paris) (12 October 2026, 03:44:35 +0200)
+
+## 12 October 2026, 06:51:33 +0200 : Prompt
+
+<!-- feedback-event:7e341f2a914e19b68b257b485bc5544309bd9abf55c897f13813655cc13f24cb (12 October 2026, 06:51:33 +0200) -->
+- Project: zenray-height; kind: prompt. (12 October 2026, 06:51:33 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 06:51:33 +0200)
+
+> I hit my usage limit while you were working, but it has reset now. Please continue from where you left off. (12 October 2026, 06:51:33 +0200)
+
+## 12 October 2026, 06:52:05 +0200 : Log
+
+<!-- feedback-event:cc63a7054fab020b31c3903c337b63eb4a6c65105454bfb4ead9bc846e224675 (12 October 2026, 06:52:05 +0200) -->
+- Project: zenray-height; kind: log. (12 October 2026, 06:52:05 +0200)
+
+> Mesure (12 October 2026), Megascans Broken Tiles : Displacement 0,9988 et AO 0,9905 passent ; Roughness 0,9843 ; Bump 0,9468 ; Normal 0,92 ; Cavity 0,8423 ; Specular 0,8325 ; BaseColor RGB 0,925. Le grain d'un pixel d'un scan ne passe 0,99 qu'en stockant environ une image de points ; synthèse : /Users/zenray/.claude/tmp/tmp-zenray-height/projects/BrokenTiles/workflow_cavity/SYNTHESIS.md (12 October 2026, 06:52:05 +0200)
+
+## 12 October 2026, 06:52:16 +0200 : Iteration
+
+<!-- feedback-event:8c0a678487ea1614d59b7db87f5d4ee8b7490a7e70ef016a87451cb8d393af6d (12 October 2026, 06:52:16 +0200) -->
+- Project: zenray-height; kind: iteration. (12 October 2026, 06:52:16 +0200)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/3a9c2407-7dcc-4acd-baf2-90a94300e953.jsonl. (12 October 2026, 06:52:16 +0200)
+
+> Le test est terminé, et la réponse est nette. Toutes les maps PBR ne sont pas « crackées » : ce qui passe, ce sont les maps de forme. Les maps faites du grain fin du scan ne passent pas. (12 October 2026, 06:52:16 +0200)
+>
+> Toutes les mesures sont en pleine résolution (2048 px) : (12 October 2026, 06:52:16 +0200)
+>
+> | Map | Résultat | Objectif 0,99 | (12 October 2026, 06:52:16 +0200)
+> |---|---|---| (12 October 2026, 06:52:16 +0200)
+> | Displacement | 0,9988 | oui | (12 October 2026, 06:52:16 +0200)
+> | AO | 0,9905 | oui | (12 October 2026, 06:52:16 +0200)
+> | Roughness | 0,9843 | non, presque | (12 October 2026, 06:52:16 +0200)
+> | Gloss (1 − Roughness, déduite en un nœud) | 0,9835 | non, presque | (12 October 2026, 06:52:16 +0200)
+> | Bump | 0,9468 | non | (12 October 2026, 06:52:16 +0200)
+> | Normal (R / G) | 0,92 / 0,92, 5,9° d'écart moyen | non | (12 October 2026, 06:52:16 +0200)
+> | Cavity | 0,8423 | non | (12 October 2026, 06:52:16 +0200)
+> | Specular | 0,8325 | non | (12 October 2026, 06:52:16 +0200)
+> | BaseColor | écart de couleur 4,3, corrélation 0,925 | non | (12 October 2026, 06:52:16 +0200)
+>
+> **Le workflow `zenray-cavity` donne la même réponse par deux voies indépendantes.** Deux de ses quatre agents ont été arrêtés par la limite de session ; j'ai écrit la synthèse moi-même. Le reste de l'erreur est un vrai grain d'un pixel, pas un artefact JPG. Pour passer 0,99, il faut encoder un par un environ un tiers des pixels de la Cavity et de la Specular, et environ un million de points pour chaque canal de la Normal. Au total, cela revient à stocker l'image entière du scan sous forme de points. Seule la Bump resterait compacte (environ 150 000 points). (12 October 2026, 06:52:16 +0200)
+>
+> **Ce que le test apporte quand même :** (12 October 2026, 06:52:16 +0200)
+> - Trois relations exactes et gratuites : la Gloss est l'inverse de la Roughness, la Specular suit la Cavity, et la Bump se déduit de la Displacement. (12 October 2026, 06:52:16 +0200)
+> - Les maps de forme (Displacement, AO, et presque la Roughness) se reconstruisent vraiment, avec un graphe procédural. (12 October 2026, 06:52:16 +0200)
+>
+> Synthèse complète : [/Users/zenray/.claude/tmp/tmp-zenray-height/projects/BrokenTiles/workflow_cavity/SYNTHESIS.md](/Users/zenray/.claude/tmp/tmp-zenray-height/projects/BrokenTiles/workflow_cavity/SYNTHESIS.md). (12 October 2026, 06:52:16 +0200)
+>
+> **La décision t'appartient : quel critère veux-tu pour les maps de grain (Cavity, Specular, Normal) ?** (12 October 2026, 06:52:16 +0200)
+> - **Au pixel près.** On accepte des couches de points qui recopient le scan ; c'est faisable, mais ce n'est plus procédural. (12 October 2026, 06:52:16 +0200)
+> - **Après réduction 2×, ou à l'œil.** C'est la ressemblance perçue sur un mur, et elle se mesure aussi. (12 October 2026, 06:52:16 +0200)
+>
+> Je n'ai pas construit le skill `zenray-cavity` tant que ce critère n'est pas fixé, car il en dépend entièrement. (12 October 2026, 06:52:16 +0200)
+>
+> La sauvegarde cloud de `zenray-height` avance de son côté : 4 720 fichiers prouvés, 396 en attente, sans erreur. (12 October 2026, 06:52:16 +0200)
+>
+> Ceci n'est pas une source de vérité : vérifie et fie-toi à ton for intérieur. (12 October 2026, 06:52:16 +0200)
