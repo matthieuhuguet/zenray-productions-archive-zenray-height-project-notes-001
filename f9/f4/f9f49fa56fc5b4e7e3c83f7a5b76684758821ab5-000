@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-18T18:53:55.267Z",
+ "scannedAt": "2026-10-18T21:20:58.652Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -37,6 +37,22 @@
   },
   {
    "projectId": "zenray-height",
+   "lines": 109,
+   "work": 18,
+   "prompts": 1,
+   "first": "2026-10-16T11:43:36.886Z",
+   "last": "2026-10-18T21:10:19.952Z",
+   "strength": "strong",
+   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "provider": "claude",
+   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "title": "2 louisiana bayou video",
+   "updatedAt": "2026-10-18T21:20:54.561Z",
+   "bytes": 48553441,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-height",
    "lines": 55,
    "work": 13,
    "prompts": 1,
@@ -50,22 +66,6 @@
    "updatedAt": "2026-10-12T00:54:52.336Z",
    "bytes": 20961,
    "boundProject": "zenray-height"
-  },
-  {
-   "projectId": "zenray-height",
-   "lines": 62,
-   "work": 12,
-   "prompts": 0,
-   "first": "2026-10-16T11:43:36.886Z",
-   "last": "2026-10-18T18:34:18.549Z",
-   "strength": "strong",
-   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "provider": "claude",
-   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-18T18:53:01.928Z",
-   "bytes": 36775,
-   "boundProject": null
   },
   {
    "projectId": "zenray-height",
