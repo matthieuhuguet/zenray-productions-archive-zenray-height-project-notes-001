@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-20T10:30:33.487Z",
+ "scannedAt": "2026-10-20T10:46:32.617Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -47,8 +47,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T10:30:10.286Z",
-   "bytes": 228852738,
+   "updatedAt": "2026-10-20T10:46:10.601Z",
+   "bytes": 228972680,
    "boundProject": null
   },
   {
@@ -98,22 +98,6 @@
    "updatedAt": "2026-10-12T07:32:36.720Z",
    "bytes": 20916,
    "boundProject": "zenray-height"
-  },
-  {
-   "projectId": "zenray-height",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-12T12:39:27.285Z",
-   "last": "2026-10-12T12:39:27.288Z",
-   "strength": "weak",
-   "conversationId": "codex:01a1301f-004c-7f90-8a16-a1fd6d965a93",
-   "provider": "codex",
-   "sessionId": "01a1301f-004c-7f90-8a16-a1fd6d965a93",
-   "title": "Conversation codex 01a1301f",
-   "updatedAt": "2026-10-12T15:25:19.405Z",
-   "bytes": 1249987,
-   "boundProject": null
   },
   {
    "projectId": "zenray-height",
