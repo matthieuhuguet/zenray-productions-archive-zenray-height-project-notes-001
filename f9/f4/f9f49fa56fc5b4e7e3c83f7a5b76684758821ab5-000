@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-20T11:50:34.044Z",
+ "scannedAt": "2026-10-20T12:01:34.535Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -47,8 +47,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T11:49:42.240Z",
-   "bytes": 237909396,
+   "updatedAt": "2026-10-20T12:00:45.502Z",
+   "bytes": 241981598,
    "boundProject": null
   },
   {
@@ -165,6 +165,22 @@
   },
   {
    "projectId": "zenray-height",
+   "lines": 5,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-10-20T11:47:50.998Z",
+   "last": "2026-10-20T11:52:52.109Z",
+   "strength": "weak",
+   "conversationId": "claude:e404b8fe-5771-41e1-b7bb-5f6111652bf6",
+   "provider": "claude",
+   "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
+   "title": "CONSIGNER LE SHARINGAN",
+   "updatedAt": "2026-10-20T12:00:22.702Z",
+   "bytes": 32034,
+   "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
+  },
+  {
+   "projectId": "zenray-height",
    "lines": 3,
    "work": 0,
    "prompts": 0,
@@ -181,22 +197,6 @@
   },
   {
    "projectId": "zenray-height",
-   "lines": 2,
-   "work": 0,
-   "prompts": 1,
-   "first": "2026-10-20T11:47:50.998Z",
-   "last": "2026-10-20T11:50:03.111Z",
-   "strength": "weak",
-   "conversationId": "claude:e404b8fe-5771-41e1-b7bb-5f6111652bf6",
-   "provider": "claude",
-   "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
-   "title": "Consigner le sharingan",
-   "updatedAt": "2026-10-20T11:50:05.044Z",
-   "bytes": 1967584,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-height",
    "lines": 1,
    "work": 0,
    "prompts": 1,
@@ -207,8 +207,8 @@
    "provider": "codex",
    "sessionId": "01a15924-aa22-7300-9533-52fc3fd3f30f",
    "title": "Conversation codex 01a15924",
-   "updatedAt": "2026-10-20T11:49:55.364Z",
-   "bytes": 977149,
+   "updatedAt": "2026-10-20T11:51:34.670Z",
+   "bytes": 993729,
    "boundProject": null
   },
   {
