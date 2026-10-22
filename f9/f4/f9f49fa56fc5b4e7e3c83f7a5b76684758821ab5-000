@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-22T22:02:47.336Z",
+ "scannedAt": "2026-10-22T22:18:47.515Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -223,8 +223,8 @@
    "provider": "claude",
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T22:01:33.103Z",
-   "bytes": 4732485,
+   "updatedAt": "2026-10-22T22:18:03.646Z",
+   "bytes": 38657,
    "boundProject": null
   },
   {
