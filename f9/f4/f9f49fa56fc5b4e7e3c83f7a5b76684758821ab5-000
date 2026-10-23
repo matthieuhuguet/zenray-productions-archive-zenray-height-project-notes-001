@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-10-22T22:30:47.593Z",
+ "scannedAt": "2026-10-23T11:48:29.320Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -16,7 +16,7 @@
    "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
    "title": "ZENRAY HEIGHT",
    "updatedAt": "2026-10-12T04:52:19.855Z",
-   "bytes": 21121,
+   "bytes": 21122,
    "boundProject": "zenray-height"
   },
   {
@@ -32,23 +32,23 @@
    "sessionId": "97dafd1e-ddee-454d-997b-6216fe6d4064",
    "title": "ZENRAY HEIGHT (fork)",
    "updatedAt": "2026-10-11T21:28:15.851Z",
-   "bytes": 21082,
+   "bytes": 21083,
    "boundProject": "zenray-height"
   },
   {
    "projectId": "zenray-height",
-   "lines": 226,
-   "work": 21,
+   "lines": 268,
+   "work": 23,
    "prompts": 3,
    "first": "2026-10-16T11:43:36.886Z",
-   "last": "2026-10-22T17:00:51.316Z",
+   "last": "2026-10-23T11:42:51.677Z",
    "strength": "strong",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T21:40:46.245Z",
-   "bytes": 40555,
+   "title": "zenray uv",
+   "updatedAt": "2026-10-23T11:48:20.495Z",
+   "bytes": 40562,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -64,7 +64,7 @@
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology (original /mhzenray)",
    "updatedAt": "2026-10-20T19:18:11.914Z",
-   "bytes": 45538,
+   "bytes": 44455,
    "boundProject": null
   },
   {
@@ -80,7 +80,7 @@
    "sessionId": "38e50342-7557-4656-9c5c-06c92e6aea4d",
    "title": "HAIKU HEIGHT",
    "updatedAt": "2026-10-12T00:54:52.336Z",
-   "bytes": 20961,
+   "bytes": 20962,
    "boundProject": "zenray-height"
   },
   {
@@ -112,7 +112,7 @@
    "sessionId": "ccab5a98-d7b2-46ff-9272-90ae7c64f6d2",
    "title": "HAIKU HEIGHT 2 JAVIER",
    "updatedAt": "2026-10-12T07:32:36.720Z",
-   "bytes": 20916,
+   "bytes": 20917,
    "boundProject": "zenray-height"
   },
   {
@@ -144,7 +144,7 @@
    "sessionId": "e404b8fe-5771-41e1-b7bb-5f6111652bf6",
    "title": "CONSIGNER LE SHARINGAN",
    "updatedAt": "2026-10-21T10:06:45.761Z",
-   "bytes": 33539,
+   "bytes": 33540,
    "boundProject": "conversation-claude-f636b9060f04a23ee355c148"
   },
   {
@@ -192,7 +192,7 @@
    "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
    "title": "ZenRay Assets UI rework in zenray edit",
    "updatedAt": "2026-10-14T10:45:04.320Z",
-   "bytes": 21342,
+   "bytes": 21343,
    "boundProject": "zenray-assets-tube-view"
   },
   {
@@ -208,7 +208,7 @@
    "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
    "title": "ZENRAY ASSETS",
    "updatedAt": "2026-10-11T22:51:54.267Z",
-   "bytes": 20971,
+   "bytes": 20972,
    "boundProject": null
   },
   {
@@ -224,7 +224,7 @@
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
    "updatedAt": "2026-10-22T22:30:23.100Z",
-   "bytes": 38258,
+   "bytes": 38259,
    "boundProject": null
   },
   {
@@ -240,7 +240,7 @@
    "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
    "title": "LOUISIANA BAYOU",
    "updatedAt": "2026-10-11T15:13:10.697Z",
-   "bytes": 20964,
+   "bytes": 20965,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -254,9 +254,9 @@
    "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
-   "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T17:14:21.465Z",
-   "bytes": 38528,
+   "title": "studio photos",
+   "updatedAt": "2026-10-23T11:17:19.759Z",
+   "bytes": 38507,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
