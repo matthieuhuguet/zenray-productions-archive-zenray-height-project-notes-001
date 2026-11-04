@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-11-04T00:15:15.407Z",
+ "scannedAt": "2026-11-04T06:16:22.757Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -37,6 +37,22 @@
   },
   {
    "projectId": "zenray-height",
+   "lines": 311,
+   "work": 49,
+   "prompts": 3,
+   "first": "2026-11-03T16:19:44.476Z",
+   "last": "2026-11-04T01:16:35.751Z",
+   "strength": "strong",
+   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "provider": "claude",
+   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "title": "zorah materials",
+   "updatedAt": "2026-11-04T01:53:29.924Z",
+   "bytes": 38359,
+   "boundProject": "zorah-materials"
+  },
+  {
+   "projectId": "zenray-height",
    "lines": 324,
    "work": 46,
    "prompts": 1,
@@ -66,22 +82,6 @@
    "updatedAt": "2026-10-23T13:08:52.408Z",
    "bytes": 41023,
    "boundProject": "louisiana-bayou"
-  },
-  {
-   "projectId": "zenray-height",
-   "lines": 173,
-   "work": 23,
-   "prompts": 2,
-   "first": "2026-11-03T16:19:44.476Z",
-   "last": "2026-11-04T00:14:20.617Z",
-   "strength": "strong",
-   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "provider": "claude",
-   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "title": "zorah materials",
-   "updatedAt": "2026-11-04T00:14:47.764Z",
-   "bytes": 67771915,
-   "boundProject": "zorah-materials"
   },
   {
    "projectId": "zenray-height",
