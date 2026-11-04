@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-11-04T12:17:32.022Z",
+ "scannedAt": "2026-11-04T18:18:23.296Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -181,38 +181,6 @@
   },
   {
    "projectId": "zenray-height",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-27T23:01:47.447Z",
-   "last": "2026-10-27T23:01:47.511Z",
-   "strength": "weak",
-   "conversationId": "codex:01a17f7d-cb54-7c21-8c4b-78a7b22caa76",
-   "provider": "codex",
-   "sessionId": "01a17f7d-cb54-7c21-8c4b-78a7b22caa76",
-   "title": "Conversation codex 01a17f7d",
-   "updatedAt": "2026-10-28T10:13:00.461Z",
-   "bytes": 45303381,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-height",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-27T22:52:18.894Z",
-   "last": "2026-10-27T22:52:18.901Z",
-   "strength": "weak",
-   "conversationId": "codex:01a17f90-6e78-7e91-bca7-d73515abc0cb",
-   "provider": "codex",
-   "sessionId": "01a17f90-6e78-7e91-bca7-d73515abc0cb",
-   "title": "Conversation codex 01a17f90",
-   "updatedAt": "2026-10-27T22:52:50.709Z",
-   "bytes": 652731,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-height",
    "lines": 12,
    "work": 0,
    "prompts": 1,
@@ -322,6 +290,38 @@
    "updatedAt": "2026-10-11T15:13:10.697Z",
    "bytes": 20965,
    "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "zenray-height",
+   "lines": 2,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-11-04T13:01:30.447Z",
+   "last": "2026-11-04T13:01:30.517Z",
+   "strength": "weak",
+   "conversationId": "claude:ab8eb886-c8c8-4907-9217-d36f0dd11c49",
+   "provider": "claude",
+   "sessionId": "ab8eb886-c8c8-4907-9217-d36f0dd11c49",
+   "title": "Libération d'espace disque Mac",
+   "updatedAt": "2026-11-04T13:19:44.787Z",
+   "bytes": 37948,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-height",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-04T12:38:10.556Z",
+   "last": "2026-11-04T12:38:10.556Z",
+   "strength": "weak",
+   "conversationId": "claude:a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
+   "provider": "claude",
+   "sessionId": "a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
+   "title": "Skill ZenRay Build Nintendo Games",
+   "updatedAt": "2026-11-04T13:43:18.407Z",
+   "bytes": 37949,
+   "boundProject": null
   },
   {
    "projectId": "zenray-height",
