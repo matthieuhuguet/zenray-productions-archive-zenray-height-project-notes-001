@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-height",
- "scannedAt": "2026-11-06T05:22:48.615Z",
+ "scannedAt": "2026-11-08T18:27:49.689Z",
  "conversations": [
   {
    "projectId": "zenray-height",
@@ -114,22 +114,6 @@
    "updatedAt": "2026-10-12T00:54:52.336Z",
    "bytes": 20962,
    "boundProject": "zenray-height"
-  },
-  {
-   "projectId": "zenray-height",
-   "lines": 23,
-   "work": 12,
-   "prompts": 1,
-   "first": "2026-10-29T10:29:01.961Z",
-   "last": "2026-10-30T00:47:03.546Z",
-   "strength": "strong",
-   "conversationId": "codex:01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "provider": "codex",
-   "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-31T06:22:27.936Z",
-   "bytes": 130681305,
-   "boundProject": "zenray-edit"
   },
   {
    "projectId": "zenray-height",
